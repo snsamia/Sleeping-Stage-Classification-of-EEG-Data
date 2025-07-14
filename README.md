@@ -1,4 +1,4 @@
-# Sleeping-Stage-Classification-of-EEG-Data
+
 # 🧠 Sleep Stage Classification from EEG Signals
 
 ![Pipeline Overview](sleep_project_pipeline.png)
