@@ -1,7 +1,7 @@
 
 # 🧠 Sleep Stage Classification from EEG Signals
 
-![Pipeline Overview](sleep_project_pipeline.png)
+![Pipeline Overview](https://github.com/snsamia/Sleeping-Stage-Classification-of-EEG-Data/blob/main/image.png)
 
 ## 📌 Overview
 
